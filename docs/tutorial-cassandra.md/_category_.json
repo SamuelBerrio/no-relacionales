@@ -1,0 +1,8 @@
+{
+    "label": "Tutorial - Cassandra",
+    "position": 4,
+    "link": {
+      "type": "generated-index",
+      "description": "Bienvenido/a al Tutorial de Cassandra, donde exploraremos a fondo esta base de datos distribuida que destaca por su escalabilidad y disponibilidad. Cassandra, parte del proyecto Apache, ha demostrado ser una elección poderosa para aplicaciones que requieren gestionar grandes cantidades de datos y mantener una alta disponibilidad en entornos distribuidos. A lo largo de este tutorial, aprenderás a descargar, instalar y utilizar Cassandra, así como a comprender sus conceptos clave. Prepárate para adentrarte en el mundo de Cassandra y descubrir cómo esta base de datos puede ser una solución efectiva para tus necesidades de almacenamiento y procesamiento de datos."
+    }
+  }

@@ -1,0 +1,8 @@
+{
+    "label": "Tutorial - Mongo DB",
+    "position": 2,
+    "link": {
+      "type": "generated-index",
+      "description": "En este documento, exploraremos MongoDB, un sistema de gestión de bases de datos NoSQL que ofrece flexibilidad y escalabilidad para el almacenamiento y la gestión de datos. MongoDB utiliza un modelo de datos basado en documentos BSON, permitiendo la adaptación a cambios en los requisitos de la aplicación sin un esquema fijo. A lo largo de este tutorial, abordaremos la instalación de MongoDB, sus aspectos técnicos, y examinaremos consultas fundamentales, proporcionando una introducción completa a esta poderosa base de datos."
+    }
+  }

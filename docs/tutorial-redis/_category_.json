@@ -1,0 +1,8 @@
+{
+    "label": "Tutorial - Redis",
+    "position": 2,
+    "link": {
+      "type": "generated-index",
+      "description": "Bienvenido/a al mundo de Redis, una base de datos en memoria que destaca por su velocidad y versatilidad. Redis se posiciona como una opción líder en el manejo eficiente de datos almacenados en memoria, permitiendo operaciones rápidas y proporcionando un rendimiento excepcional. A lo largo de este tutorial, nos sumergiremos en los fundamentos de Redis, explorando su instalación, conceptos clave y casos de uso comunes. Descubre cómo Redis puede ser una solución efectiva para aplicaciones que requieren baja latencia, alta disponibilidad y una manipulación eficiente de datos en memoria."
+    }
+  }
